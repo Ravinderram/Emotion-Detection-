@@ -7,3 +7,10 @@ The application can be used in various fields, including:
 * Customer sentiment analysis
 * Mental health monitoring
 * Human-computer interaction
+# Dataset
+The project uses a publicly available emotion dataset, such as FER2013. You can download it from kaggle.
+
+# Features
+* Real-time Emotion Detection: Detect emotions using live video feeds 
+* Multi-emotion Classification: Supports detection of multiple emotions (e.g., angry, happy, neutral, etc.).
+* User-Friendly Interface: Easy-to-use interface for  enabling camera feeds.
