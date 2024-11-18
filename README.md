@@ -4,6 +4,6 @@ This project focuses on detecting human emotions from facial expressions using d
 
 The application can be used in various fields, including:
 
-Customer sentiment analysis
-Mental health monitoring
-Human-computer interaction
+* Customer sentiment analysis
+* Mental health monitoring
+* Human-computer interaction
