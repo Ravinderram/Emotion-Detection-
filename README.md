@@ -24,3 +24,11 @@ Follow these steps to set up the repository: <br />
 git clone git@github.com:Ravinderram/Emotion-Detection-.git
 ```
 ### Install dependencies:
+``` bash
+pip install -r requirements.txt
+```
+## Usage 
+First run the below ```.py``` file and save the model. Don't forgot to give the dataset path.
+``` bash
+pip install -r requirements.txt
+```
