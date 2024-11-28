@@ -1,1 +1,9 @@
+Please install these libraries  :
+numpy
+pandas
+tensorflow
+keras
+scikit-learn
+matplotlib
+seaborn
 
