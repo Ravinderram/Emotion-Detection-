@@ -28,7 +28,14 @@ git clone git@github.com:Ravinderram/Emotion-Detection-.git
 pip install -r requirements.txt
 ```
 ## Usage 
-First run the below ```.py``` file and save the model. Don't forgot to give the dataset path.
+1. First run the below ```.py``` file and save the model. Don't forgot to give the dataset path.
 ``` bash
-pip install -r requirements.txt
+emotion_detection traning file.ipynb
+```
+2. Next run the given ```.py``` file and give saved model and xml file  path into the main  file.
+``` bash
+emotion_detection traning file.ipynb
+```
+``` bash
+haarcascade_frontalface_default.xml
 ```
