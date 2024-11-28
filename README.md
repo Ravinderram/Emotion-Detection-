@@ -17,3 +17,10 @@ The project uses a publicly available emotion dataset, such as FER2013. You can 
 * Real-time Emotion Detection: Detect emotions using live video feeds 
 * Multi-emotion Classification: Supports detection of multiple emotions (e.g., angry, happy, neutral, etc.).
 * User-Friendly Interface: Easy-to-use interface for  enabling camera feeds.
+## Installation
+Follow these steps to set up the repository: <br />
+### Clone the repository:
+``` bash
+git clone git@github.com:Ravinderram/Emotion-Detection-.git
+```
+### Install dependencies:
