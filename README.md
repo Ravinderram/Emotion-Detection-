@@ -7,6 +7,9 @@ The application can be used in various fields, including:
 * Customer sentiment analysis
 * Mental health monitoring
 * Human-computer interaction
+  ![emo](https://github.com/user-attachments/assets/776c9f1e-ba17-4e48-bb73-6f97a6b939c0)<br />
+  *Image Source: [Aratek - How Does Facial Emotion Recognition Express Your Feelings?](https://www.aratek.co/news/how-does-facial-emotion-recognition-express-your-feelings)*
+
 ## Dataset
 The project uses a publicly available emotion dataset, such as FER2013. You can download it from https://www.kaggle.com/datasets/msambare/fer2013.
 
