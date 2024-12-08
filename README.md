@@ -39,3 +39,5 @@ emotion_detection traning file.ipynb
 ``` bash
 haarcascade_frontalface_default.xml
 ```
+## Example 
+![dfg](https://github.com/user-attachments/assets/630e593a-1367-462b-ab4c-ffb279cbd993)
